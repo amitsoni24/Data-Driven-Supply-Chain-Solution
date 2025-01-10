@@ -29,4 +29,4 @@
 # 6. Contact
 - For any questions or feedback regarding this project, please contact:
 
- --Vivek Radadiya
+ --Amit Soni
